@@ -132,6 +132,6 @@ footer p {
 
 .link-footer:hover {
   font-weight: bold;
-  font-size: medium9;
+  font-size: medium;
   transition: 1.5s ease-out;
 }
